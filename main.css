@@ -1,0 +1,19 @@
+.strikeout {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.priority {
+    color:orange;
+}
+
+.static-class:hover{
+    color: lightblue;
+    
+} 
+
+li, p {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
